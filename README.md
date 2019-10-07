@@ -5,10 +5,12 @@
 ## Guidelines
 - Utilizar o github como ferramenta de versionamento de seu teste.
 - Você esta livre na construção da interface.
-- Conectar a api.json para listagem dos produtos.
-- Criar página de detalhe do produto trazendo a informação do produto selecionado na listagem.
-- Criar um carrinho de compras que some todos os produtos colocados no carrinho.
-- Na tela de carrinho, o usuário poderá excluir o item que colocou no carrinho, o valor total sempre deverá ser atualizado.
+- Utilizar o site [The Movie DB](https://www.themoviedb.org/settings/api) para consumir sua api.
+- Criar página home como exemplo de layout da [The Movie DB](https://www.themoviedb.org/movie)
+- Criar página detalhe do filme como exemplo de layout da [The Movie DB](https://www.themoviedb.org/movie/475557-joker)
+
+#### Obs:
+ A página de detalhe do filme não precisa ter todo o conteúdo, o importante é ter apenas as informações do filme selecionado na página inicial.
   
 ## Entrega
 - Incluir o usuario `michelribeiro2004@gmail.com` no repositório que foi criado no github.
